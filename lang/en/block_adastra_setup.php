@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Ad Astra exercises setup'; // Required by Moodle core.
+$string['pluginname'] = 'Ad Astra Exercises Setup'; // Required by Moodle core.
 
 $string['editexercises'] = 'Edit exercises';
 $string['deviations'] = 'Deviations';

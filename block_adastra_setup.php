@@ -80,7 +80,7 @@ class block_adastra_setup extends block_list {
              */
 
             // Edit exercises.
-            $this->content->items[] = $this->render_list_item(\mod_adastra\local\urls::edit_course($cid, true),
+            $this->content->items[] = $this->render_list_item(\mod_adastra\local\urls\urls::edit_course($cid, true),
                     'editexercises', 'i/settings');
         }
 
